@@ -77,7 +77,7 @@ The next step is to create a GitLab repository to store your website files. Here
 5. Click on the "Create project" button.
 6. Add Website Files to the GitLab Repository with .gitlab-ci.yml file
 
-## Step 7: Configure GitLab Repository 
+## Step 5: Configure GitLab Repository 
 
 1. create 2 environments [production , staging] from deployments pane click environment, in the external url set the S3 bucket url which is in the Properties tab of S3 bucket
 2.  Add GitLab CI/CD Variables:
