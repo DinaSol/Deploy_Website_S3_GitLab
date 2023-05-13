@@ -6,7 +6,7 @@ This README will guide you through the process of hosting a static website on Am
 ### Description 
 Deploy a static website to 2 S3 Buckets [one for production , second one for staging] using a gitlab pipeline 
 
-<img src="AWS.svg">
+<img src="aws.png">
 
 ### Prerequisites
 Before starting, please make sure you have the following:
